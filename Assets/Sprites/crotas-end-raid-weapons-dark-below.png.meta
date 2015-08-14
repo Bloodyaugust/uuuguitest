@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 3d3f6f38a42ff7349804ce8dfa2b53c8
+timeCreated: 1439269797
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: crotas-end-raid-weapons-dark-below_0
+    21300002: crotas-end-raid-weapons-dark-below_1
+    21300004: crotas-end-raid-weapons-dark-below_2
+    21300006: crotas-end-raid-weapons-dark-below_3
+    21300008: crotas-end-raid-weapons-dark-below_4
+    21300010: crotas-end-raid-weapons-dark-below_5
+    21300012: crotas-end-raid-weapons-dark-below_6
+    21300014: crotas-end-raid-weapons-dark-below_7
+    21300016: crotas-end-raid-weapons-dark-below_8
+    21300018: crotas-end-raid-weapons-dark-below_9
+    21300020: crotas-end-raid-weapons-dark-below_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: crotas-end-raid-weapons-dark-below_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 301
+        width: 148
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crotas-end-raid-weapons-dark-below_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 301
+        width: 152
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crotas-end-raid-weapons-dark-below_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 299
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crotas-end-raid-weapons-dark-below_3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 300
+        width: 146
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crotas-end-raid-weapons-dark-below_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 150
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crotas-end-raid-weapons-dark-below_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 149
+        width: 149
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crotas-end-raid-weapons-dark-below_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crotas-end-raid-weapons-dark-below_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 149
+        width: 149
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crotas-end-raid-weapons-dark-below_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crotas-end-raid-weapons-dark-below_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crotas-end-raid-weapons-dark-below_10
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 151
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
